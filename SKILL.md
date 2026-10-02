@@ -1,3 +1,8 @@
+---
+name: tenable-enclave-to-sc-rpm-migration
+description: Migrate or recover Tenable Enclave Security / Tenable.sc data onto a standalone RHEL 8 Tenable.sc host backed by external PostgreSQL (e.g. AWS RDS), preserving the authoritative database and overlaying persistent data onto the fresh RPM runtime.
+---
+
 # Tenable.sc RHEL Migration and Recovery Skill
 
 ## Purpose
